@@ -2,6 +2,20 @@
 ![](https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/gif.gif)
 
 ## :raising_hand: About me:
+<div class="container">
+     <ul class="about">
+       <li>Currently I am working at Cognizant Technology Solutions as SDET</li>
+       <li>Currently I am working at Cognizant Technology Solutions as SET</li>
+       <li></li>
+       <li></li>
+       <li></li>
+       <li></li>
+     </ul>
+
+  </div>
+
+
+
 ◽ Currently, I am pursuing my <b>M.Tech</b> in Information Security from <a href="https://www.iiitm.ac.in/index.php/en/"><b> Atal Bihari Vajpayee - Indian Institute of Information Technology and Management, Gwalior, Madhya Pradesh, India - 474015</b></a>.<br>
 ◽ I'm have completed my <b>B.Tech</b> in Computer Science And Engineering from <a href="https://www.jiit.ac.in/"> <b>Jaypee Institute Of Information Technology, Noida sec-62</b></a>.<br>
 ◽ Intrested in <b>Full Stack Web </b>, <b>Artificial Intelligenece</b>, <b>Machine Learning</b> and <b>Cyber Security</b>.<br>
