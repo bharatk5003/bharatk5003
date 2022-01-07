@@ -9,6 +9,17 @@
 ◽ I like playing Cricket and watching Movies<br>
 ◽ I’m currently learning everything about **Cyber-security** and **Blockchain** technologies.<br>
 
+ <div class="mid">
+          <ul class="navbar">
+            <li><a href="#"class="active">Home</a> </li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Fitness calculator</a> </li>
+            <li> <a href="#">Contact Us</a></li>
+          </ul>
+    </div>
+
+
+
 <br>
 <a href="https://github.com/bharatk5003">
    <img src="https://github-readme-stats.vercel.app/api?username=ishubhamkr&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Bharat's github stats" width=450px/>
