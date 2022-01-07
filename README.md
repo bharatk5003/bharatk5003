@@ -3,14 +3,15 @@
 
 ## :raising_hand: About me:
 ◽ Currently, I am pursuing my <b>M.Tech</b> in Information Security from <a href="https://www.iiitm.ac.in/index.php/en/"><b> Atal Bihari Vajpayee - Indian Institute of Information Technology and Management, Gwalior, Madhya Pradesh, India - 474015</b></a>.<br>
-◽ I'm have completed my <b>B.Tech</b> in Computer Science And Engineering from <a href="https://www.ticollege.ac.in/"> <b>Techno India, SaltLake, Kolkata, West Bengal, India - 700091</b></a>.<br>
-◽ Intrested in <b>Blockchain</b>, <b>Artificial Intelligenece</b>, <b>Machine Learning</b> and <b>Cyber Security</b>.<br>
-◽ I like playing Football and watching Animation Series.<br>
+◽ I'm have completed my <b>B.Tech</b> in Computer Science And Engineering from <a href="https://www.jiit.ac.in/"> <b>Jaypee Institute Of Information Technology, Noida sec-62</b></a>.<br>
+◽ Intrested in <b>Full Stack Web </b>, <b>Artificial Intelligenece</b>, <b>Machine Learning</b> and <b>Cyber Security</b>.<br>
+◽ Intrested in <b>Full Stack Web evelopment</b>, <b>Artificial Intelligenece</b>, <b>Machine Learning</b> and <b>Cyber Security</b>.<br>
+◽ I like playing Cricket and watching Movies<br>
 ◽ I’m currently learning everything about **Cyber-security** and **Blockchain** technologies.<br>
 
 <br>
-<a href="https://github.com/ishubhamkr">
-   <img src="https://github-readme-stats.vercel.app/api?username=ishubhamkr&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Shubham's github stats" width=450px/>
+<a href="https://github.com/bharatk5003">
+   <img src="https://github-readme-stats.vercel.app/api?username=ishubhamkr&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Bharat's github stats" width=450px/>
 </a><br><br>
 
 <div id="tech"></div>
@@ -35,8 +36,8 @@
 <p align="center"=><i>In case you wanna reach out to me</i></p>
  <p align="center">
   <a href="https://www.linkedin.com/in/imshubhamkumar/"><img alt="LinkedIn" title="LinkedIn" src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/linkedin.svg" width=20px" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_mshubham/"><img alt="Instagram" title="Instagram" src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/instagram.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
-   <a href="mshubham0309@gmail.com"><img alt="mail" title="mail" src="https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/gmail.svg" width=20px/></a>
+ 
+   <a href="bharatk503@gmail.com"><img alt="mail" title="mail" src="https://github.com/bharatk5003/bharatk5003/blob/main/icons/gmail.svg" width=20px/></a>
 </p>
 <br>
 
