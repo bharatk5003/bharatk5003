@@ -1,4 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    .container{
+      background-color: aqua;
+    }
 
+
+  </style>
+</head>
+<body>
 
 
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
@@ -6,9 +21,9 @@
 
 
 ## :raising_hand: About me:
-<div class="container"  background-color='aqua' >
+<div class="container">
      <ul class="about">
-       <li color='red'>Currently I am working at Cognizant Technology Solutions as SDET</li>
+       <li>Currently I am working at Cognizant Technology Solutions as SDET</li>
        <li>Currently I am working at Cognizant Technology Solutions as SDET</li>
        <li></li>
        <li></li>
@@ -69,4 +84,7 @@
    <a href="bharatk503@gmail.com"><img alt="mail" title="mail" src="https://github.com/bharatk5003/bharatk5003/blob/main/icons/gmail.svg" width=20px/></a>
 </p>
 <br>
+
+</body>
+</html>
 
