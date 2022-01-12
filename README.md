@@ -1,15 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    .container{
+      background-color: aqua;
+    }
 
+
+  </style>
+</head>
+<body>
 
 
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 ![](https://github.com/bharatk5003/bharatk5003/blob/master/icons/gif.gif)
-
-<style>
-.container{
-      background-color: aqua;
-    }
-
-</style>
 
 
 ## :raising_hand: About me:
@@ -76,4 +84,7 @@
    <a href="bharatk503@gmail.com"><img alt="mail" title="mail" src="https://github.com/bharatk5003/bharatk5003/blob/main/icons/gmail.svg" width=20px/></a>
 </p>
 <br>
+
+</body>
+</html>
 
