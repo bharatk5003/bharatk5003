@@ -1,12 +1,22 @@
+
+
+
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 ![](https://github.com/bharatk5003/bharatk5003/blob/master/icons/gif.gif)
+
+<style>
+.container{
+      background-color: aqua;
+    }
+
+</style>
 
 
 ## :raising_hand: About me:
 <div class="container">
      <ul class="about">
        <li>Currently I am working at Cognizant Technology Solutions as SDET</li>
-       <li>Currently I am working at Cognizant Technology Solutions as SET</li>
+       <li>Currently I am working at Cognizant Technology Solutions as SDET</li>
        <li></li>
        <li></li>
        <li></li>
@@ -19,15 +29,15 @@
 
 ◽ Currently, I am pursuing my <b>M.Tech</b> in Information Security from <a href="https://www.iiitm.ac.in/index.php/en/"><b> Atal Bihari Vajpayee - Indian Institute of Information Technology and Management, Gwalior, Madhya Pradesh, India - 474015</b></a>.<br>
 ◽ I'm have completed my <b>B.Tech</b> in Computer Science And Engineering from <a href="https://www.jiit.ac.in/"> <b>Jaypee Institute Of Information Technology, Noida sec-62</b></a>.<br>
-◽ Intrested in <b>Full Stack Web </b>, <b>Artificial Intelligenece</b>, <b>Machine Learning</b> and <b>Cyber Security</b>.<br>
-◽ Intrested in <b>Full Stack Web evelopment</b>, <b>Artificial Intelligenece</b>, <b>Machine Learning</b> and <b>Cyber Security</b>.<br>
+◽ Interested in <b>Full Stack Web </b>, <b>Artificial Intelligenece</b>, <b>Machine Learning</b> and <b>Cyber Security</b>.<br>
+◽ Interested in <b>Full Stack Web evelopment</b>, <b>Artificial Intelligenece</b>, <b>Machine Learning</b> and <b>Cyber Security</b>.<br>
 ◽ I like playing Cricket and watching Movies<br>
-◽ I’m currently learning everything about **Cyber-security** and **Blockchain** technologies.<br>
+◽ I’m currently learning everything about **react js** and **Node js** technologies.<br>
 
  <div class="mid">
           <ul class="navbar">
             <li><a href="#"class="active">Home</a> </li>
-            <li><a href="#">About Us</a></li>
+            <li><a href="#">About U</a></li>
             <li><a href="#">Fitness calculator</a> </li>
             <li> <a href="#">Contact Us</a></li>
           </ul>
