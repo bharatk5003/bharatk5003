@@ -1,5 +1,6 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-![](https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/gif.gif)
+<!-- ![](https://github.com/ishubhamkr/ishubhamkr/blob/main/icons/gif.gif) -->
+
 
 ## :raising_hand: About me:
 <div class="container">
