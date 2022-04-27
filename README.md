@@ -8,10 +8,8 @@
 ## :raising_hand: About me:
 <div class="container"  background-color='aqua' >
      <ul class="about">
-       <li color='red'>Currently I am working at Cognizant Technology Solutions as SDET</li>
-       <li>Currently I am working at Cognizant Technology Solutions as SDET</li>
-       <li></li>
-     
+       <li color='red'>Currently I am working at Publicis Sapient as Data Engineer-Big data </li>
+       <li>I have worked at Cognizant Technology Solutions as SDET</li>
      </ul>
 
   </div>
@@ -25,14 +23,14 @@
 ◽ I like playing Cricket and watching Movies<br>
 ◽ I’m currently learning everything about **react js** and **Node js** technologies.<br>
 
- <div class="mid">
+<!--  <div class="mid">
           <ul class="navbar">
             <li><a href="#"class="active">Home</a> </li>
             <li><a href="#">About U</a></li>
             <li><a href="#">Fitness calculator</a> </li>
             <li> <a href="#">Contact Us</a></li>
           </ul>
-    </div>
+    </div> -->
 
 
 
