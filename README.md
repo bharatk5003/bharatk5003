@@ -1,7 +1,7 @@
 
 
 
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+<!-- # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  -->
 ![](https://github.com/bharatk5003/bharatk5003/blob/master/icons/gif.gif)
 
 
