@@ -8,8 +8,8 @@
 ## :raising_hand: About me:
 <div class="container"  background-color='aqua' >
      <ul class="about">
-       <li color='red'>Currently I am working at Publicis Sapient as Data Engineer-Big data </li>
-       <li>I have worked at Cognizant Technology Solutions as SDET</li>
+       <li color='red'>Currently I am working at Biz2Credit as Software Engineer </li>
+       <li>I have worked at Publicis Sapient as Associate Technology L1 </li>
      </ul>
 
   </div>
